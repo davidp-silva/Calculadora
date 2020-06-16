@@ -10,15 +10,15 @@ namespace Calculadora
         }
         public static double Subtrair(double a, double b)
         {
-            return double.MinValue;
+            return a - b;
         }
         public static double Dividir(double a, double b)
         {
-            return double.MinValue;
+            return a / b;
         }
         public static double Multiplicar(double a,double b)
         {
-            return double.MinValue;
+            return a * b;
         }
     }
 }
