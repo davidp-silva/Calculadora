@@ -2,9 +2,9 @@
 
 namespace Calculadora
 {
-    public class Calculadora
+    public static class Calcular
     {
-        public double somar (int a,int b)
+        public static double soma (double a,double b)
         {
             throw new Exception();
         }
